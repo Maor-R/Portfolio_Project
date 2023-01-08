@@ -16,10 +16,6 @@
     animation-delay: 5s;
     /* position: relative;
     color: white; */
-
-
-
-
 }
 
 @keyframes changeBg  {
@@ -27,8 +23,6 @@
     33% {background-image: url("../assets/images/b.jpg");}
     66% {background-image: url("../assets/images/c.jpg");}
 }
-
-
 
 
 /* #header h1
@@ -243,6 +237,7 @@ section h2{
 'image12 image8 image6  ';
 padding: 10rem; 
 align-items:center;
+justify-content: center
 }
 
 .item {
